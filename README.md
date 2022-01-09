@@ -22,7 +22,7 @@
   </a>       
 </p>
 
-# GraphGallery
+# GraphGallery MyVersion
 GraphGallery is a gallery for benchmarking Graph Neural Networks (GNNs) based on pure [PyTorch](https://github.com/pytorch/pytorch) backend. Alteratively, [Pytorch Geometric (PyG)](https://github.com/pyg-team/pytorch_geometric) and [Deep Graph Library (DGL)](https://www.dgl.ai/) backend are also available in GraphGallery to accelerate your implementations.
 
 
